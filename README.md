@@ -1,5 +1,14 @@
 # 01-Introduction
 
+With my code I am trying to let the person reading this understand me a little better than before,
+when somebody runs my code they will have to enter their name and later if they like the sam game as 
+me. This code was creatted to help somebody who wants to know a little more about me.
+
+
+
+
+
+
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
 
 Write a Python program that displays answers to the following questions:
